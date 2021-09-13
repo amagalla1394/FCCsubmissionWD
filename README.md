@@ -10,8 +10,8 @@ Submission for the required projects are posted on CodePen to display the comple
 
 The projects needed were:
 
-Tribute Page
-Survey Form
-Landing Page
-Documentation Page
-Personal Portfolio (currently underwork)
+1. Tribute Page
+2. Survey Form
+3. Landing Page
+4. Documentation Page
+5. Personal Portfolio (currently underwork)
